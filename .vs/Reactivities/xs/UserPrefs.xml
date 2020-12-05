@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{754FB2FC-D727-40AB-A7B4-A0E031E49091}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Value.cs">
+    <Files>
+      <File FileName="Domain/Value.cs" Line="1" Column="1" />
+      <File FileName="Persistence/DataContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reactivities" expanded="True">
+            <Node name="API" expanded="True" />
+            <Node name="Domain" expanded="True">
+              <Node name="Value.cs" selected="True" />
+            </Node>
+            <Node name="Persistence" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
